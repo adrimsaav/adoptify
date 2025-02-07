@@ -18,6 +18,9 @@ From there, there will be a series of questions where the User must answer using
 - **Python**
 - **Kaggle**
 
+## Presentation Video Link
+https://drive.google.com/file/d/1_UD73kt5TVg4Wv1O-Wsu1zK_h_0TS9uF/view?usp=sharing
+
 ## pet_matcher.py
 We used the ABC module for abstract classes and csv for reading/writing files, and the Pet class is an abstract base class for all pets, and its __init__ method initializes attributes (e.g., ID, type, breed, gender) from a dictionary.  Subclasses (Dog, Cat, Rabbit, Bird) implement the abstract methods for specific behaviors. Property methods provide getters/setters, while abstract methods (get_energy_level, get_social_level, get_noise_level) are defined for subclasses to implement. The to_dict method converts attributes into a dictionary, and __str__ and __repr__ provide readable and debugging output. The PetFactory class uses the create_pet static method to create pet objects based on type, raising a ValueError for unrecognized types. This was done through ChatGPT. The PetMatcher class matches pets to users. It initializes with a _pets list (populated from a CSV file) and a scoring dictionary for matching attributes. Using csv.DictReader, it reads the file, creates pet objects via PetFactory.create_pet, and stores them in _pets, handling errors with ValueError. Getter methods allow access to _pets and weights.
 
