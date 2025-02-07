@@ -7,9 +7,11 @@ In our command-line program, the User is asked a series of questions about what 
 
 ## Getting Started
 While staying on main.py, the User can run the program through the terminal. The first question would be how old the User is, and if the User enters an age younger than 18, the program will let the User know that they must be older than 18 in order to adopt a pet. 
+
 <img width="423" alt="Screenshot 2025-02-06 at 7 50 22 PM" src="https://github.com/user-attachments/assets/dfc51af5-04f4-4a30-890f-501fdc139af2" />
 
 From there, there will be a series of questions where the User must answer using numbers 1-3, depending on the answers provided (e.g. What is your living situation? (1) Apartment, (2) House, (3) Rural property). After six of these questions, the top three results will be displayed, like so:
+
 <img width="545" alt="Screenshot 2025-02-06 at 7 49 11 PM" src="https://github.com/user-attachments/assets/81cb0708-b79f-4344-863d-d18c6dac8056" />
 
 ## Technologies Used
