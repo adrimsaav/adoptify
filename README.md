@@ -1,4 +1,4 @@
-![alt text](image.png)
+![alt text](image.gif)
 
 # Adoptify: Pet Adoption Matchmaking Program
 
