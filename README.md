@@ -1,4 +1,5 @@
-![ScreenRecording2025-02-06at7 42 32PM-ezgif com-speed](https://github.com/user-attachments/assets/560f93bd-1e89-4eea-bdf1-2c8601514811)
+![adoptify](https://github.com/user-attachments/assets/00d18c06-632e-4f42-8ed2-2300b8cfd665)
+
 # Adoptify: Pet Adoption Matchmaking Program
 Welcome to **Adoptify**, a pet adoption matchmaking program designed to connect users with their ideal pets based on personality and lifestyle. Our aim is to make it personalized and give a match percentage as to how compatible a pet is for the User.
 
