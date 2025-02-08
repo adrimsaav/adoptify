@@ -1,7 +1,7 @@
 ![adoptify](https://github.com/user-attachments/assets/00d18c06-632e-4f42-8ed2-2300b8cfd665)
 
 # Adoptify: Pet Adoption Matchmaking Program
-Welcome to **Adoptify**, a pet adoption matchmaking program designed to connect users with their ideal pets based on personality and lifestyle. Our aim is to make it personalized and give a match percentage as to how compatible a pet is for the User.
+Welcome to **Adoptify**, a pet adoption matchmaking program designed to connect users with their ideal pets based on personality and lifestyle. Our aim is to make it personalized and give a match percentage as to how compatible a pet is for the User. Project was done for INST326 at Universities of Shady Grove through UMCP, and done by me and my other teammates Kimberly and Fred. 
 
 ## Features
 In our command-line program, the User is asked a series of questions about what type of pet they’re looking for, their living environment, activity levels, and preferences. Based on this input, Adoptify will analyze the local dataset sourced from Kaggle that contains detailed information about adoptable pets, including their physical traits, age, and other characteristics. The program utilizes local pet adoption data sourced from Kaggle, and offers personalized recommendations with compatibility scores.
